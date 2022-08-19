@@ -1,0 +1,8 @@
+git init (Crear cartpeta)
+git status (Revisar) //rojo
+git add "archivo" (carga archivo, no lo envia) 
+git add . (carga todo)
+git status (Revisar) //verde
+git commit -m "Primer commit" (sube archivos cargados)
+git status (Revisar) //nada
+git log (Ver registros)
