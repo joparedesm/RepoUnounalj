@@ -14,3 +14,8 @@ git remote add origin https://github.com/joparedesm/RepoUnounalj.git
 (agrega direccion de repositorio)
 git remote -v (ver el origen del repositorio)
 git remote rm origin (quita origen)
+git commit -m "commit remoto"
+git push -u origin master (envia cambios a github en la rama master)
+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
+git config credential.username "joparedesm" (por error de credencial o 
+crear nuevo token en Opath github)
