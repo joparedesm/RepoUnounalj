@@ -6,3 +6,11 @@ git status (Revisar) //verde
 git commit -m "Primer commit" (sube archivos cargados)
 git status (Revisar) //nada
 git log (Ver registros)
+git log --oneline (ver codigos de commits)
+// borrar commit
+git config user.name "joparedesm" (nombre de usuario github)
+git config user.email "joparedesm@unal.edu.co" (correo github)
+git remote add origin https://github.com/joparedesm/RepoUnounalj.git
+(agrega direccion de repositorio)
+git remote -v (ver el origen del repositorio)
+git remote rm origin (quita origen)
