@@ -1,0 +1,3 @@
+import prueba
+
+prueba.operacionMatematica()
